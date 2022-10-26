@@ -1,0 +1,38 @@
+[
+    {
+      "id": "01",
+      "name": "C++"
+    },
+    {
+      "id": "02",
+      "name": "Python"
+    },
+    {
+      "id": "03",
+      "name": "PHP"
+    },
+    {
+      "id": "04",
+      "name": "JavaScript"
+    },
+    {
+      "id": "05",
+      "name": "HTML & CSS"
+    },
+    {
+      "id": "06",
+      "name": "React JS"
+    },
+    {
+      "id": "07",
+      "name": "Ruby"
+    },
+    {
+      "id": "08",
+      "name": "SQL"
+    },
+    {
+      "id": "09",
+      "name": "SEO & Analytics"
+    }
+  ]
