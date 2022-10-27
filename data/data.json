@@ -6,7 +6,7 @@
       "price": "$30",
       "subs": "31k",
       "name": "C++",
-      "about": "Ex officia velit veniam ad cillum. Mollit id non in proident proident adipisicing aliqua labore sunt. Lorem excepteur in pariatur cillum elit. Consectetur ea cupidatat laboris commodo veniam velit excepteur. Ipsum eiusmod nostrud aliquip eu culpa proident laboris occaecat consequat consectetur Lorem incididunt anim.\r\n"
+      "about": "Understand and use the basic programming constructs of C/C++ Manipulate various C/C++ datatypes, such as arrays, strings, and pointers. Isolate and fix common errors in C++ programs. Use memory appropriately, including proper allocation/deallocation procedures."
     },
     {
       "id": "02",
@@ -15,7 +15,7 @@
       "price": "$50",
       "subs": "25k",
       "name": "Python",
-      "about": "Dolore eiusmod veniam excepteur enim proident duis nostrud. Irure laborum mollit ut consectetur minim fugiat cupidatat dolore culpa irure incididunt do. Exercitation ex aute id est ipsum nisi ullamco dolore esse. Dolor officia pariatur laboris consectetur sit. Ut elit magna incididunt magna. Anim aliquip deserunt laborum sint eiusmod sit et enim magna ut nostrud.\r\n"
+      "about": " This course provides an introduction to programming and the Python language.  Students are introduced to core programming concepts like data structures, conditionals, loops, variables, and functions.  This course includes an overview of the various tools available for writing and running Python, and gets students coding quickly. "
     },
     {
       "id": "03",
@@ -24,7 +24,7 @@
       "price": "$70",
       "subs": "40k",
       "name": "PHP",
-      "about": "Incididunt dolor enim amet consectetur do. Ea in adipisicing magna cupidatat deserunt. Elit labore esse nisi ad commodo exercitation elit Lorem proident fugiat cupidatat eiusmod anim. Consequat exercitation proident aliqua nostrud et labore. Dolor anim laborum Lorem in.\r\n"
+      "about": " PHP is a language written for the Web, quick to learn, easy to deploy and provides substantial functionality required for e-commerce. This PHP training course introduces the PHP framework and syntax and covers in depth the most important techniques used to build dynamic Web sites. Students learn how to connect to any modern database, and perform hands on practice with a MySQL database to create database-driven HTML forms and reports."
     },
     {
       "id": "04",
@@ -33,7 +33,7 @@
       "price": "$60",
       "subs": "22k",
       "name": "JavaScript",
-      "about": "Veniam ipsum aliqua dolor eiusmod anim. Laboris id nostrud minim ut laborum ex ipsum eiusmod amet dolore sunt ad pariatur. Sit adipisicing do exercitation tempor minim aliquip sunt.\r\n"
+      "about": "JavaScript is the globally used client-side scripting language for the web. Most browsers support the language by default, so you can get started using JavaScript and HTML with a simple text editor and browser for testing. Client-side, programming languages make web pages dynamic without making calls to your web servers for every button clicked, character typed, or mouse moved. The JavaScript language is so popular that thousands of developers have made customized libraries that make development even easier for other programmers and web designers. If you design web pages, you'll certainly need to know JavaScript to make a custom UI (user interface)."
     },
     {
       "id": "05",
@@ -42,7 +42,7 @@
       "price": "90",
       "subs": "39k",
       "name": "HTML & CSS",
-      "about": "Nostrud officia occaecat consequat non excepteur. Aute sint in et ea mollit ullamco do minim reprehenderit ea magna ex. Commodo eu consectetur aute consectetur eu nulla fugiat ex. Eu sit adipisicing deserunt sint aliquip laboris sit qui anim. Nostrud officia sit reprehenderit consectetur quis minim sit minim. Deserunt do anim labore mollit sit deserunt et proident. Est pariatur sunt pariatur consectetur aute adipisicing et labore et fugiat cupidatat.\r\n"
+      "about": "This two-part series provides an in-depth look at the fundamentals of coding in HTML and CSS. We start by exploring HTML Development using some of the most commonly used tags and attributes. Students will learn the composition of an HTML file, and some of the essential components. Students will work with HTML Spacing, Text Formatting, Lists, Images, Embedding Videos, Link Creation, Tables, and Forms. We also include a hands-on project, that helps solidify the concepts we explore in the course."
     },
     {
       "id": "06",
@@ -51,7 +51,7 @@
       "price": "$110",
       "subs": "30k",
       "name": "React JS",
-      "about": "Tempor et in voluptate officia veniam proident quis sunt aliquip enim exercitation fugiat. Labore culpa tempor nostrud aliqua occaecat enim sunt ullamco nulla fugiat excepteur pariatur et. Magna Lorem laboris adipisicing exercitation proident labore sint dolor Lorem enim consectetur exercitation ex. Labore commodo ut velit qui voluptate irure Lorem nisi Lorem. Voluptate do pariatur mollit duis. Cupidatat consequat laborum deserunt consequat est tempor sunt ipsum quis dolore pariatur. Mollit voluptate adipisicing ullamco veniam minim dolore commodo tempor tempor Lorem id id nisi voluptate.\r\n"
+      "about": "The React.JS Course Curriculum contains basic elements like introduction, JSX overview, Environmental setup, real-time applications, forms and UI, Component Lifecycle, Event Handling, and Styles along with advanced features such as router and navigations, Flux, Redux, and Unit testing methods. "
     },
     {
       "id": "07",
