@@ -2,6 +2,7 @@
     {
       "id": "01",
       "index": 0,
+      "img": "https://wallpapercave.com/wp/wp4009915.jpg",
       "price": "$30",
       "subs": "31k",
       "name": "C++",
@@ -10,6 +11,7 @@
     {
       "id": "02",
       "index": 1,
+      "img": "https://wallpapercave.com/wp/wp4850110.png",
       "price": "$50",
       "subs": "25k",
       "name": "Python",
@@ -18,6 +20,7 @@
     {
       "id": "03",
       "index": 2,
+      "img":"https://swall.teahub.io/photos/small/88-884234_top-notch-programming-hd-desktop-wallpapers-php-course.jpg",
       "price": "$70",
       "subs": "40k",
       "name": "PHP",
@@ -26,6 +29,7 @@
     {
       "id": "04",
       "index": 3,
+      "img": "https://apostube.com/wp-content/uploads/2022/06/js1.jpg",
       "price": "$60",
       "subs": "22k",
       "name": "JavaScript",
@@ -34,6 +38,7 @@
     {
       "id": "05",
       "index": 4,
+      "img": "https://cphinf.pstatic.net/mooc/20181107_43/15415645512142Dd3u_PNG/____HTML__CSS__.png",
       "price": "90",
       "subs": "39k",
       "name": "HTML & CSS",
@@ -42,6 +47,7 @@
     {
       "id": "06",
       "index": 5,
+      "img":"https://i0.wp.com/www.electrumitsolutions.com/wp-content/uploads/2020/12/wp4923992-react-js-wallpapers.png?fit=1024%2C576&ssl=1",
       "price": "$110",
       "subs": "30k",
       "name": "React JS",
@@ -50,6 +56,7 @@
     {
       "id": "07",
       "index": 6,
+      "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--jTX-RVuQ--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/i5dm7hap45ice8wwigi7.png",
       "price": "$90",
       "subs": "25k",
       "name": "Ruby",
@@ -58,6 +65,7 @@
     {
       "id": "08",
       "index": 7,
+      "img": "https://wallpaperaccess.com/full/2138094.jpg",
       "price": "$50",
       "subs": "34k",
       "name": "SQL",
@@ -66,9 +74,10 @@
     {
       "id": "09",
       "index": 7,
+      "img": "https://media.istockphoto.com/photos/search-engine-optimization-concept-picture-id1183594834?b=1&k=20&m=1183594834&s=170667a&w=0&h=rPDvMtfGxWs5Y_qNdDpsr5_gbZEnSiCX0D8dpAHZjh4=",
       "price": "$40",
       "subs": "20k",
-      "name": "SEO & Analytics",
-      "about": "Dolore quis laborum pariatur velit sit adipisicing culpa non culpa officia duis nulla amet nulla. Quis sint dolore aliquip reprehenderit ullamco ut laborum anim consectetur veniam laboris labore nulla. Labore in in id et velit in sint consequat irure velit non exercitation. Fugiat duis occaecat exercitation Lorem dolore.\r\n"
+      "name": "SEO",
+      "about": " This course covers the basics of how a website is structured, how search engines work, what they are looking for, choosing competitive keywords, writing content for your website, code optimization, link building, social media and some advanced optimization techniques."
     }
   ]
