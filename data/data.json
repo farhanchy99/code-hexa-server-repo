@@ -5,6 +5,7 @@
       "img": "https://wallpapercave.com/wp/wp4009915.jpg",
       "price": "$30",
       "subs": "31k",
+      "lessons": "15",
       "name": "C++",
       "about": "Understand and use the basic programming constructs of C/C++ Manipulate various C/C++ datatypes, such as arrays, strings, and pointers. Isolate and fix common errors in C++ programs. Use memory appropriately, including proper allocation/deallocation procedures."
     },
@@ -14,6 +15,7 @@
       "img": "https://wallpapercave.com/wp/wp4850110.png",
       "price": "$50",
       "subs": "25k",
+      "lessons": "16",
       "name": "Python",
       "about": " This course provides an introduction to programming and the Python language.  Students are introduced to core programming concepts like data structures, conditionals, loops, variables, and functions.  This course includes an overview of the various tools available for writing and running Python, and gets students coding quickly. "
     },
@@ -23,6 +25,7 @@
       "img":"https://swall.teahub.io/photos/small/88-884234_top-notch-programming-hd-desktop-wallpapers-php-course.jpg",
       "price": "$70",
       "subs": "40k",
+      "lessons": "20",
       "name": "PHP",
       "about": " PHP is a language written for the Web, quick to learn, easy to deploy and provides substantial functionality required for e-commerce. This PHP training course introduces the PHP framework and syntax and covers in depth the most important techniques used to build dynamic Web sites. Students learn how to connect to any modern database, and perform hands on practice with a MySQL database to create database-driven HTML forms and reports."
     },
@@ -32,6 +35,7 @@
       "img": "https://apostube.com/wp-content/uploads/2022/06/js1.jpg",
       "price": "$60",
       "subs": "22k",
+      "lessons": "27",
       "name": "JavaScript",
       "about": "JavaScript is the globally used client-side scripting language for the web. Most browsers support the language by default, so you can get started using JavaScript and HTML with a simple text editor and browser for testing. Client-side, programming languages make web pages dynamic without making calls to your web servers for every button clicked, character typed, or mouse moved. The JavaScript language is so popular that thousands of developers have made customized libraries that make development even easier for other programmers and web designers. If you design web pages, you'll certainly need to know JavaScript to make a custom UI (user interface)."
     },
@@ -41,6 +45,7 @@
       "img": "https://cphinf.pstatic.net/mooc/20181107_43/15415645512142Dd3u_PNG/____HTML__CSS__.png",
       "price": "$90",
       "subs": "39k",
+      "lessons": "12",
       "name": "HTML & CSS",
       "about": "This two-part series provides an in-depth look at the fundamentals of coding in HTML and CSS. We start by exploring HTML Development using some of the most commonly used tags and attributes. Students will learn the composition of an HTML file, and some of the essential components. Students will work with HTML Spacing, Text Formatting, Lists, Images, Embedding Videos, Link Creation, Tables, and Forms. We also include a hands-on project, that helps solidify the concepts we explore in the course."
     },
@@ -50,6 +55,7 @@
       "img":"https://i0.wp.com/www.electrumitsolutions.com/wp-content/uploads/2020/12/wp4923992-react-js-wallpapers.png?fit=1024%2C576&ssl=1",
       "price": "$110",
       "subs": "30k",
+      "lessons": "18",
       "name": "React JS",
       "about": "The React.JS Course Curriculum contains basic elements like introduction, JSX overview, Environmental setup, real-time applications, forms and UI, Component Lifecycle, Event Handling, and Styles along with advanced features such as router and navigations, Flux, Redux, and Unit testing methods. "
     },
@@ -59,6 +65,7 @@
       "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--jTX-RVuQ--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/i5dm7hap45ice8wwigi7.png",
       "price": "$90",
       "subs": "25k",
+      "lessons": "15",
       "name": "Ruby",
       "about": "Ruby is a general programming language used primarily for web applications, and other secondary tasks like data analysis and prototyping. Ruby on Rails is a popular software that is used for web applications. Students aspiring to become web developers, or data scientists can pursue Ruby Courses."
     },
@@ -68,6 +75,7 @@
       "img": "https://wallpaperaccess.com/full/2138094.jpg",
       "price": "$50",
       "subs": "34k",
+      "lessons": "21",
       "name": "SQL",
       "about": "SQLCourse is a unique SQL tutorial website that not only provides easy-to-understand SQL instructions at your correct level, but it allows you to practice what you learn using the online SQL interpreter."
     },
@@ -77,6 +85,7 @@
       "img": "https://media.istockphoto.com/photos/search-engine-optimization-concept-picture-id1183594834?b=1&k=20&m=1183594834&s=170667a&w=0&h=rPDvMtfGxWs5Y_qNdDpsr5_gbZEnSiCX0D8dpAHZjh4=",
       "price": "$40",
       "subs": "20k",
+      "lessons": "23",
       "name": "SEO",
       "about": " This course covers the basics of how a website is structured, how search engines work, what they are looking for, choosing competitive keywords, writing content for your website, code optimization, link building, social media and some advanced optimization techniques."
     }
